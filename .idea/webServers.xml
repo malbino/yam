@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bea686a9-1b19-41de-b4d7-8beb4cce3438" name="laragon" url="http://localhost/yam">
+        <fileTransfer port="0" mountedRoot="C:\laragon\www\yam" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

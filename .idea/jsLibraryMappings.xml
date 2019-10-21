@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/bootstrap4/js/bootstrap-select.min.js" libraries="{HTTP Response Handler}" />
+    <file url="PROJECT" libraries="{all, buttons.bootstrap4, buttons.colVis, buttons.html5, buttons.print, dataTables.bootstrap4, dataTables.buttons, dataTables.responsive, jquery-3.3.1, jquery.dataTables, jszip, pdfmake, responsive.bootstrap4, vfs_fonts}" />
+  </component>
+</project>
